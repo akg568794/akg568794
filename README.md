@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend-Development**
 
-- 💬 Ask me about **react or fronted development**
+- 💬 Ask me about **React or Fronted Development**
 
 - 📫 How to reach me **akg568794@gmail.com**
 
