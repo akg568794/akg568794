@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [Real-Estate website](hhttps://aks-estate.onrender.com/)
+- 🔭 I’m currently working on [Real-Estate website](https://aks-estate.onrender.com/)
 
 - 🌱 I’m currently learning **Backend-Development**
-
-- 👨‍💻 All of my projects are available at [https://akg-portfolio.netlify.app/](https://akg-portfolio.netlify.app/)
 
 - 💬 Ask me about **react or fronted development**
 
