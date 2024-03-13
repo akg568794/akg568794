@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 I’m currently working on [Real-Estate website](https://aks-estate.onrender.com/)
